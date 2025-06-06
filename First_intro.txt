@@ -1,8 +1,9 @@
-﻿Gitの練習を開始します。
+Gitの練習を開始します。
 ・git add
 ・git commit
 ・git rm
 ・git diff
 ・git commit --amend
 ・git merge add
+・Github Flow 
 
