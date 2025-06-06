@@ -5,4 +5,5 @@ Gitの練習を開始します。
 ・git diff
 ・git commit --amend
 ・git merge add
+・pull requests
 
